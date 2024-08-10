@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the project name
-PROJECT_NAME="MigrationLab"
+PROJECT_NAME="BlazorProjectName"
 
 # Create the root directory
 mkdir $PROJECT_NAME
